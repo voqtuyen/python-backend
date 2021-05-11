@@ -31,3 +31,4 @@ for each person, but `datetime.utcnow()` will always return the same time, regar
 ## Reference
 1. https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xii-dates-and-times
 2. https://vinta.ws/code/timezone-in-python-offset-naive-and-offset-aware-datetimes.html
+3. https://stackoverflow.com/questions/19654578/python-utc-datetime-objects-iso-format-doesnt-include-z-zulu-or-zero-offset
