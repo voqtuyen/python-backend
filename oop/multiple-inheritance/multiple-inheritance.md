@@ -33,3 +33,4 @@
 
 ## Reference
 1. https://youtu.be/SqzziP_ZtuU
+2. https://en.wikipedia.org/wiki/Multiple_inheritance
