@@ -5,5 +5,5 @@
 These characters have special meanings in HTML.
 - Imagine, you write:
 `<b>hello, world</b>`
-And the text will appear as <b>hello, world</b>. But sometime you don't want to have this behaviour. So you replace the < and >.
+And the text will appear as <b>hello, world</b>. But sometime you don't want to have this behaviour. So you replace the `<` and `>`.
 `&lt;b&gt;hello world&lt;/b&gt;`. This will result in <b>hello world</b>
