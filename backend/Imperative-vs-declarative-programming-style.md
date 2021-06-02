@@ -12,7 +12,6 @@ passwords = [
 ```
 We want to reject the user to sign up with a password less than 9 characters long.
 
-
 ## Imperative Programming Style
 Imperative programming is like how you do something.
 
@@ -22,7 +21,6 @@ for pw in passwords:
    if len(pw) >= 9:
      long_passwords.append(pw)
 ```
-
 
 ## Declarative Programming Syle
 Declarative programming is more like what you do.
